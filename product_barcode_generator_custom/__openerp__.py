@@ -22,6 +22,6 @@ Steps to use module:
         'data.xml',
         'views.xml',
         ],
-    'installable': False,
+    'installable': True,
     'auto_install': False,
 }
